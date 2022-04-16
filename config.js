@@ -55,23 +55,23 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Syakilla Bot'
+global.namabot = 'BOT - Expires ಠ ͜ʖ ಠ'
 
-global.namaowner = 'Sanzy Store'
+global.namaowner = 'Alreth Store'
 
-global.myweb = 'https://youtube.com/shorts/8xDh-rcMrYk?feature=share'
+global.myweb = 'https://youtube.com/channel/UCgfwvoMFBJOrVUhav_kmxhg'
 
 
-global.owner = [ '6288289367621' ]
+global.owner = [ '6283120364831' ]
 
 
 global.premium = ['6281276698054']
 
 
-global.packname = 'Syakilla Bot'
+global.packname = ''
 
 
-global.author = 'ah ah ah'
+global.author = ''
 
 
 global.sessionName = 'hisoka'
